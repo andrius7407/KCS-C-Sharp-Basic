@@ -1,5 +1,5 @@
-/* Jaunasis matematikas ir gobšus turtuolis Jaunasis matematikas, 
-pastebėjęs gobšaus turtuolio bukumą, pasiūlė sandorį: 
+/* Jaunasis matematikas ir gobšus turtuolis. 
+Jaunasis matematikas, pastebėjęs gobšaus turtuolio bukumą, pasiūlė sandorį: 
 Pirmą dieną jis turtuoliui duos 1 mln. dolerių, o tas jam 2 centus. 
 Kitą dieną vėl duos 1 mln. dolerių, o tas jam dvigubai - 4 centus. 
 Ir taip jie darys visą mėnesį - 31 dieną. Parašykite programą, kuri suskaičiuotų, 
